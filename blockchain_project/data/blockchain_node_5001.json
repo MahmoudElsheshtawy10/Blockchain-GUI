@@ -1,0 +1,92 @@
+{
+  "difficulty": 4,
+  "mining_reward": 10.0,
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "2026-08-24T20:42:15.442016+00:00",
+      "transactions": [],
+      "previous_hash": "0",
+      "nonce": 81561,
+      "hash": "0000b4bc1fe3d1f8cccdb60aa9e4ec7b3776194f674f9d8f12351c074b284ade"
+    },
+    {
+      "index": 1,
+      "timestamp": "2026-08-24T20:42:56.572064+00:00",
+      "transactions": [
+        {
+          "amount": 10.0,
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEgcbIJIJGZkMSBplwqsCyFZZWQGzQXzct\noJ+T4Vl341W8/vXj9A7f8gqzj9gPtxvJA+2AS8hqTaxtljKGpGdYDg==\n-----END PUBLIC KEY-----\n",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2026-08-24T20:42:56.572046+00:00"
+        }
+      ],
+      "previous_hash": "0000b4bc1fe3d1f8cccdb60aa9e4ec7b3776194f674f9d8f12351c074b284ade",
+      "nonce": 18015,
+      "hash": "00001e4cdb5b4e6ac26bb0e85f91b32660825e51ae2cb267862044e75cf189b9"
+    },
+    {
+      "index": 2,
+      "timestamp": "2026-08-24T20:43:44.951864+00:00",
+      "transactions": [
+        {
+          "amount": 10.0,
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEgcbIJIJGZkMSBplwqsCyFZZWQGzQXzct\noJ+T4Vl341W8/vXj9A7f8gqzj9gPtxvJA+2AS8hqTaxtljKGpGdYDg==\n-----END PUBLIC KEY-----\n",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2026-08-24T20:43:44.951846+00:00"
+        }
+      ],
+      "previous_hash": "00001e4cdb5b4e6ac26bb0e85f91b32660825e51ae2cb267862044e75cf189b9",
+      "nonce": 10460,
+      "hash": "0000fbad217aeaed1fb586e5a8ea75787ded3bb4a3f073a9bf4b777a0da40e13"
+    },
+    {
+      "index": 3,
+      "timestamp": "2026-08-24T21:02:01.493127+00:00",
+      "transactions": [
+        {
+          "amount": 10.0,
+          "receiver": "Node1Wallet",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2026-08-24T21:02:01.493106+00:00"
+        },
+        {
+          "amount": 50,
+          "receiver": "Node1Wallet",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2024-01-01T00:00:00"
+        }
+      ],
+      "previous_hash": "0000fbad217aeaed1fb586e5a8ea75787ded3bb4a3f073a9bf4b777a0da40e13",
+      "nonce": 79812,
+      "hash": "0000e63950e3a9334bf9c0ba95f68112b956476662fcc38bc24655fe94346b5f"
+    },
+    {
+      "index": 4,
+      "timestamp": "2026-08-24T21:25:37.643208+00:00",
+      "transactions": [
+        {
+          "amount": 10.0,
+          "receiver": "Node1Wallet",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2026-08-24T21:25:37.643193+00:00"
+        },
+        {
+          "amount": 50,
+          "receiver": "Node1Wallet",
+          "sender": "SYSTEM",
+          "signature": "",
+          "timestamp": "2024-01-01T00:00:00"
+        }
+      ],
+      "previous_hash": "0000e63950e3a9334bf9c0ba95f68112b956476662fcc38bc24655fe94346b5f",
+      "nonce": 7950,
+      "hash": "000049f2038181f88ec8cba120e68fbb963fc5294ebfb0c6f0079fefa2843e0a"
+    }
+  ]
+}

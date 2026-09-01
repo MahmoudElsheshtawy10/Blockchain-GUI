@@ -1,0 +1,60 @@
+{
+  "difficulty": 2,
+  "mining_reward": 10.0,
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "2026-08-24T21:26:47.299125+00:00",
+      "transactions": [],
+      "previous_hash": "0",
+      "nonce": 582,
+      "hash": "000b5b12f47baf01f6014b93d2260e400e8083f18a4ee436623163f3d78b1cd1"
+    },
+    {
+      "index": 1,
+      "timestamp": "2026-08-24T21:26:47.313794+00:00",
+      "transactions": [
+        {
+          "sender": "SYSTEM",
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEVkJw5YhBYswRLg5ftcgPOcbFSaz2RAOp\nCQ4MBiwHprd6ZiIYZb2h5p1XWXgKdOPxf29oqurf0pPmTWqVv9ppIw==\n-----END PUBLIC KEY-----\n",
+          "amount": 10.0,
+          "timestamp": "2026-08-24T21:26:47.313780+00:00",
+          "signature": ""
+        },
+        {
+          "sender": "SYSTEM",
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEVkJw5YhBYswRLg5ftcgPOcbFSaz2RAOp\nCQ4MBiwHprd6ZiIYZb2h5p1XWXgKdOPxf29oqurf0pPmTWqVv9ppIw==\n-----END PUBLIC KEY-----\n",
+          "amount": 100,
+          "timestamp": "2026-08-24T21:26:47.313762+00:00",
+          "signature": ""
+        }
+      ],
+      "previous_hash": "000b5b12f47baf01f6014b93d2260e400e8083f18a4ee436623163f3d78b1cd1",
+      "nonce": 278,
+      "hash": "00668e989a12f2fc283ee38755b15fa3be93b2d70d43854716fc20b6432b33a5"
+    },
+    {
+      "index": 2,
+      "timestamp": "2026-08-24T21:26:47.317857+00:00",
+      "transactions": [
+        {
+          "sender": "SYSTEM",
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEVkJw5YhBYswRLg5ftcgPOcbFSaz2RAOp\nCQ4MBiwHprd6ZiIYZb2h5p1XWXgKdOPxf29oqurf0pPmTWqVv9ppIw==\n-----END PUBLIC KEY-----\n",
+          "amount": 10.0,
+          "timestamp": "2026-08-24T21:26:47.317843+00:00",
+          "signature": ""
+        },
+        {
+          "sender": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEVkJw5YhBYswRLg5ftcgPOcbFSaz2RAOp\nCQ4MBiwHprd6ZiIYZb2h5p1XWXgKdOPxf29oqurf0pPmTWqVv9ppIw==\n-----END PUBLIC KEY-----\n",
+          "receiver": "-----BEGIN PUBLIC KEY-----\nMFYwEAYHKoZIzj0CAQYFK4EEAAoDQgAEGjw84+cwANRP8AGvOj7j0btDnbGseGVJ\nlyLzZcbxDIiwuPVPpMAclIjB1mwtdWhE7YeSnLKlFlVdatIrj9r4sA==\n-----END PUBLIC KEY-----\n",
+          "amount": 25,
+          "timestamp": "2026-08-24T21:26:47.316229+00:00",
+          "signature": "MEQCIGEw2wX3KRIu217TEb3eUkJzHcJI8rv4Ze7JBdfsY2x5AiB5W697eX4DoKs491T9aIWcFeVqnQ20z2N3kxSXrBMEqQ=="
+        }
+      ],
+      "previous_hash": "00668e989a12f2fc283ee38755b15fa3be93b2d70d43854716fc20b6432b33a5",
+      "nonce": 389,
+      "hash": "004f5ffbcfc378277f5099340e0d9473f6d97f1e1671d63e36e7365b1346661c"
+    }
+  ]
+}
